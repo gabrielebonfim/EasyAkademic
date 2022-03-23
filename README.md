@@ -5,6 +5,7 @@ Disciplina: Desenvolvimento Para Web <br>
 - [Gabriele Alves](https://github.com/gabrielebonfim)
 - [Júlio César](https://github.com/juliorodrigues1)
 - [Jade Thomaz](https://github.com/JadeThom)
+- [Antony Santos](https://github.com/Tonhass)
 
 
 ****
