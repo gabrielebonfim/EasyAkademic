@@ -1,4 +1,4 @@
-# Orange Brain 
+# EasyAkademic
 Curso: Análise e Desenvolvimento de Sistemas <br>
 Disciplina: Desenvolvimento Para Web <br>
 #### Alunos: 
