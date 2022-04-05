@@ -11,5 +11,5 @@ Disciplina: Desenvolvimento Para Web <br>
 ****
 #### Links Úteis
 
-| [Briefing](https://github.com/gabrielebonfim/orange-brain/blob/main/briefing/briefing.png) |
+| [Briefing](https://github.com/gabrielebonfim/EasyAkademic/blob/main/docs/briefing.png) |
 |----------------------------------------------------------------------------------------|
