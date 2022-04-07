@@ -73,17 +73,29 @@ Insira nesta seção as possíveis telas do sistema ou o esboço do sistema, com
 #### Exemplo 1 
 
 <p align="center">
-  <img src="imagem.png" width="800" alt="">
+  <img src="Protótipos/login.jpeg" width="800" alt="">
 </p>
 
 #### Exemplo 2 
 
 <p align="center">
-  <img src="imagem2.png" width="800" alt="">
+  <img src="Protótipos/intranet.jpeg" width="800" alt="">
 </p>
 
 #### Exemplo 3 
 
 <p align="center">
-  <img src="imagem3.jpg" width="800" alt="">
+  <img src="Protótipos/turnos.jpeg" width="800" alt="">
+</p>
+
+#### Exemplo 4 
+
+<p align="center">
+  <img src="Protótipos/cursos.jpeg" width="800" alt="">
+</p>
+
+#### Exemplo 5 
+
+<p align="center">
+  <img src="Protótipos/frequencias.jpeg" width="800" alt="">
 </p>
