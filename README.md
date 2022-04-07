@@ -10,6 +10,6 @@ Disciplina: Desenvolvimento Para Web <br>
 
 ****
 #### Links Úteis
+| [Briefing](https://github.com/gabrielebonfim/EasyAkademic/blob/main/docs/briefing.png) | [Documentação do Software](https://github.com/gabrielebonfim/EasyAkademic/blob/main/docs/documentacao_software.md) |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 
-| [Briefing](https://github.com/gabrielebonfim/EasyAkademic/blob/main/docs/briefing.png) |
-|----------------------------------------------------------------------------------------|
