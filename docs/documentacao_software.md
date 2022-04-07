@@ -46,8 +46,6 @@ Vai ser permitdo o cadastro de alunos, professores e coordenadores, para realiza
 
 ### Requisitos Funcionais
 
-Descreva os requisitos funcionais do sistema, ou seja, a definição do que o sistema fará.
-
 |ID| Nome|Descrição|
 | :---: | --- | --- |
 |RF01|Realizar Cadastro|O sistema deve ser capaz de disponibilizar área para que o usuário realize o cadastro de alunos, professores e coordenadores.|
@@ -58,12 +56,12 @@ Descreva os requisitos funcionais do sistema, ou seja, a definição do que o si
 
 ### Requisitos Não Funcionais
 
-Descreva os requisitos não funcionais do sistema, ou seja, todas as necessidades que não podem ser atendidas através de funcionalidades.
-
 |ID| Nome|Descrição|
 | :---: | --- | --- |
 |RNF01|Controle de Acesso|O sistema só poderá ser acessado por usuário cadastrado|
 |RNF02|Niveis de permissão|O sistema terá niveis de permissão onde uns usuários terão mais privilegios que outros|
+|RNF03|Linguagem e framework|Será usada a linguagem python com o framework django|
+|RNF03|Banco de dados|O banco de dados usado será postgresql|
 
 
 ## Layout/Prototipagem 
